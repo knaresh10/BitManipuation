@@ -13,3 +13,6 @@
 - **<<** - left shift operator. The left operands value is moved left by the number of bits specified by the right operand.
 
 - **>>** - right shift operator. The left operands value is moved right by the number of bits specified by the right operand.
+
+
+[bitwise operators in cpp](basics.cpp)
